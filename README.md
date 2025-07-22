@@ -1,4 +1,4 @@
-# Mobile App Forensic Analysis – Flask Web App
+# Mobile App Forensic Analysis 
 
 ## Overview
 This project is a **Flask-based web application** that integrates with the **MobSF (Mobile Security Framework) API** to automate the forensic analysis of mobile applications.
